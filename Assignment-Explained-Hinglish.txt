@@ -1,0 +1,26 @@
+VIDEO KA SIMPLE MATLAB
+
+Yeh Funnel Builder job ka sample assignment hai. Speaker aapki copywriting aur funnel-thinking check karna chahta hai. 20-30 minutes ka suggested effort hai; production system complete karna zaroori nahi.
+
+Audience: USA mein bachchon wali moms.
+Ad offer: free "The Family Health Playbook".
+Business objective: guide download ke baad suitable visitors ka optional life-insurance consultation request.
+Facebook ads unki team banayegi; aapko ads nahi banane.
+
+4 DELIVERABLES
+1. Landing-page headline, subheadline aur benefit bullet points. Copy simple, direct aur clear ho; fancy wording se zyada conversion par focus.
+2. AI-assisted sample playbook: cover, table of contents aur 1-2 actual content pages. Is package mein 4-page PDF hai.
+3. WPForms ke end par qualification answers ke hisaab se optional consultation checkbox. Sirf "Book a call" nahi; family protection ka clear benefit batana hai. Speaker income over $100,000 ko example ke taur par deta hai.
+4. Explain karna hai: WordPress/WPForms se lead kaise submit hoga, qualified/non-qualified thank-you routes kaise honge, Meta Pixel kaise fire hoga, aur Zapier/Make/n8n se GHL ya HubSpot mein lead kaise jayega.
+
+IMPORTANT NUANCE
+Qualified hona aur call ka consent dena alag cheezein hain. Qualified visitor checkbox unchecked chhod sakta hai; use guide dena hai, advisor request nahi bhejni.
+
+SUBMISSION
+Copy + sample playbook share kar sakte ho. Screenshots ya live demo bhi acceptable hain. Short Loom walkthrough preferred hai. Speaker specifically technical reasoning aapke apne words mein sunna chahta hai; notes samajhkar apni implementation explain karna.
+
+KAHAN BANANA HAI
+Quick POC: is ZIP ka index.html browser mein open karo.
+Actual requested stack: WordPress staging site par Elementor/Gutenberg landing page + WPForms + Zapier + selected CRM.
+PDF: supplied PDF use kar sakte ho ya Canva mein branding edit kar sakte ho.
+Live integration ke liye WPForms suitable license/addon, Zapier access, chosen CRM access, sender email aur Meta Pixel ID chahiye honge.

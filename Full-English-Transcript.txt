@@ -1,0 +1,32 @@
+FUNNEL BUILDER SAMPLE ASSIGNMENT OVERVIEW
+Full English transcript from the uploaded 4:50 recording
+
+Machine-generated transcription; punctuation and obvious product names normalized. Minor wording errors may remain. Timestamps approximate. Income above $100,000 is given as an example, not a finalized rule.
+
+[00:00] Hey, hey, this is the funnel builder sample assignment. So if you applied for a job as a funnel builder, and you got past the first screening, which most people do not get past the first screening. So that's a good sign. Now we're gonna have you do a quick application. This should not take you more than 20 minutes, 30 minutes, you can spend more time if you want. I don't recommend it.
+
+[00:21] We're just looking to get a sense of what you can do pretty quickly. We have a very specific manufacturing process that we use for our funnels. And so whatever you do, we're probably gonna do it different from you anyhow, but your skills are very important. We wanna see what you can do on your own. And then if we feel like it's a good fit, we'll bring you in and we'll show you how we do it.
+
+[00:42] And we manufacture these funnels at a pretty large scale pretty quickly. So here's the assignment, the scenario. We're selling life insurance to moms with children in the USA. So the client in this case, the thing that we're trying to sell is life insurance to moms in the US market. We're gonna run Facebook ads. Don't worry about the ads.
+
+[01:03] We make the ads, so that's not part of the funnel builder job. The CTA on the ad is download the Family Health Playbook. And we're doing a call funnel here. So they get to the landing page. Your job is to create a sample funnel that gets moms to download the playbook once they get to that landing page
+
+[01:23] and encourages them to request a life insurance consultation. Okay, here's what we wanna see from you. Number one, I want to see the landing page copy. So I'm very, very specific about the copy. You can use Claude, ChatGPT. I don't care, but I'm evaluating the copy. I wanna see the headline. I wanna see the sub headline. I wanna see the points that you use to get people to land on this page
+
+[01:45] and say, God damn it. I gotta download that playbook. That looks so good. We don't want any abandonment on that landing page once they get there. Write a compelling headline, sub headline, bullet points that convince moms to download the playbook. I'm gonna give you one tip here because we run a lot of funnels that generate millions of dollars. Do not get fancy, do not get cute.
+
+[02:07] Simple is better. Okay, be very simple, be very straightforward. Make these landing pages convert. That's all we care about. The second thing I wanna see is a lead magnet. So please use AI to generate a sample playbook, the Family Health Playbook, including, I say, to cover the table of contents, whatever playbook you want,
+
+[02:27] something that would be reasonable for a download, for a lead magnet rather, and it should be called the Family Health Playbook. So create that as well. I recommend using AI for that. And then finally, the conditional offer. So at the end, we typically, we build on WordPress. We use WPForms. So we're gonna do a conditional offer
+
+[02:48] as long as they answer the first few questions. Let's say they make over $100,000 a year. At the end of the WP lead form, we're gonna put a conditional check box up where they can request a call with a life insurance advisor. So I wanna see the copy that you use on that line. Okay, so here's a recommendation.
+
+[03:10] Don't just write book a call. No one's gonna click that. No one cares about booking a call. So you've gotta be very careful with your copy. Write something that you think people are gonna check the box. Remember, they're in the mindset of coming here to download a Family Health Playbook. And now we are encouraging them to book a call because they're qualified to take the next step.
+
+[03:31] Don't just think about your family's health, but also think about your family's safety and protection and the worst case scenario. So you're gonna want them to opt in for a life insurance call. So one or two lines of copy to get them to opt in for a sales call. Okay, and then the last thing here is just briefly explain how you connect. You don't have to do all the work here
+
+[03:52] because you're probably just gonna use AI for a lot of this. But I want you to explain to me, once the lead comes in, then how do you send them to a qualified thank you page? How do you send the folks who aren't qualified to the non-qualified thank you page? How are you firing the meta pixel? How are you getting the lead from WP forms into GHL or into HubSpot?
+
+[04:12] Are you using make or are you using Zappi or are you using N8N? So just give me a description of what you're doing. Easiest way to do that is with a Loom video or you can write it out. Do not AI this part because I'm gonna immediately, we're not gonna pay attention. You have to actually answer this question and I'm looking for how you think about it. If it's too perfect and too clean, it doesn't work.
+
+[04:33] You've got to explain how you're gonna do it. Okay, so look forward to seeing that. If you wanna just share screenshots that's great or a live website that's great, even better if you could do a Loom video, do a quick walkthrough like I'm doing here. I look forward to hearing from you. Thanks so much.
